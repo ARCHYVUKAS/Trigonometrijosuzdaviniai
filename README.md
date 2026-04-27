@@ -209,43 +209,6 @@ c) įžambinė = 2 × priešpriešinė<br>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Trigonometrija</title>
-
-<style>
-body {
-    font-family: Arial, sans-serif;
-    background: #f4f6f8;
-    margin: 20px;
-    line-height: 1.6;
-}
-
-h1 {
-    text-align: center;
-}
-
-.box {
-    background: white;
-    padding: 20px;
-    margin-bottom: 25px;
-    border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0,0,0,0.1);
-}
-
-table {
-    width: 100%;
-    border-collapse: collapse;
-    margin-top: 10px;
-}
-
-table, th, td {
-    border: 1px solid #ccc;
-}
-
-th, td {
-    padding: 10px;
-    text-align: center;
-}
-</style>
 
 </head>
 <body>
