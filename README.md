@@ -5,27 +5,7 @@
 
 
 
-h1 {
-    text-align: center;
-}
 
-.box {
-    background: white;
-    padding: 20px;
-    margin-bottom: 25px;
-    border-radius: 10px;
-}
-
-.question {
-    margin-bottom: 20px;
-}
-
-.answers {
-    margin-top: 50px;
-    padding: 20px;
-    background: #e8f5e9;
-    border-radius: 10px;
-}
 </style>
 
 </head>
