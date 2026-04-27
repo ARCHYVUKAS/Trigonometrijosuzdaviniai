@@ -3,11 +3,7 @@
 <head>
 <meta charset="UTF-8">
 
-body {
-    font-family: Arial;
-    background: #f0f2f5;
-    margin: 20px;
-}
+
 
 h1 {
     text-align: center;
