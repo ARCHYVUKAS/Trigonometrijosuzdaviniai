@@ -2,9 +2,7 @@
 <html lang="lt">
 <head>
 <meta charset="UTF-8">
-<title>Trigonometrijos testas</title>
 
-<style>
 body {
     font-family: Arial;
     background: #f0f2f5;
